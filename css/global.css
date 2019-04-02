@@ -54,3 +54,13 @@ body {
 .main-content {
   margin: 0 80px;
 }
+
+@media screen and (max-width: 320px){
+
+.main-content{
+
+margin-left: 30px;
+margin-right: 30px;
+
+}
+}

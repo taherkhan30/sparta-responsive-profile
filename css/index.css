@@ -30,12 +30,15 @@ text-align: center;
 .left{
 
 	float: none;
+	width: 100%;
+	text-align: justify;
 }
+
 .right {
 
   width:100%;
 	position: relative;
-	right: 61px;
+	right: 20px;
 	text-align: center;
 	text-align: justify;
 	float: none;
@@ -43,7 +46,7 @@ text-align: center;
 
 #headshot {
 	position: relative;
-	right: 61px;
+	right: 20px;
 	bottom: 30px;
   border: 4px solid #E13A63;
 
