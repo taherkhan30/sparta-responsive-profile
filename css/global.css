@@ -19,22 +19,24 @@ body {
 
 @media screen and (max-width: 320px){
 
-#logo {
+  #logo {
 
-  width: 140px;
-  margin-top: 20px;
-
+    width: 180px;
+    margin-top: 7px;
+    margin-left: 7px;
+    margin-bottom: 7px;
+    margin-right: 9px;
+  }
 }
 
 
-
-}
 
 #headshot {
   border-radius: 100%;
   height: 250px;
   width: 250px;
 }
+
 
 .navbar {
   background-color: #01181b;

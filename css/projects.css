@@ -14,14 +14,16 @@
 	box-sizing: border-box;
 }
 
+
+
 @media screen and (max-width: 320px){
+
 
 .tile{
 
   width: 100%;
 
 }
-
 
 .tile img	{
 	display: block;
@@ -33,5 +35,11 @@
 .tile img{
 
   width: 100%;
+}
+
+.screenshot{
+
+  padding-top: 0px;
+}
 
 }
