@@ -27,13 +27,18 @@ text-align: center;
 
 }
 
+.left{
+
+	float: none;
+}
 .right {
 
   width:100%;
 	position: relative;
 	right: 61px;
 	text-align: center;
-
+	text-align: justify;
+	float: none;
 }
 
 #headshot {
@@ -43,7 +48,6 @@ text-align: center;
   border: 4px solid #E13A63;
 
 }
-
 
 
 }
